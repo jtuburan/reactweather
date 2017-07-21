@@ -1,1 +1,1 @@
-React Weather file
+React Weather Application
