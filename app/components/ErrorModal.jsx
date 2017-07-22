@@ -30,5 +30,4 @@ var ErrorModal = React.createClass({
     );
   }
 });
-
 module.exports = ErrorModal;
